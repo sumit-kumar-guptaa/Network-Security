@@ -13,6 +13,3 @@ pymongo
 
 
 
-
-d6MCaGOhy1bummpt //password
-aiwithsumit108_db_user // username
